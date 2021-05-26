@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NumberAnalyzerLab5.25.21/1.0.0": {
+        "runtime": {
+          "NumberAnalyzerLab5.25.21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumberAnalyzerLab5.25.21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

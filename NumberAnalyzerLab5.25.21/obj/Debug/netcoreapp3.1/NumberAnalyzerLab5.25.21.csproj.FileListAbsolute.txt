@@ -1,0 +1,13 @@
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\bin\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.exe
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\bin\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.deps.json
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\bin\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.runtimeconfig.json
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\bin\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.runtimeconfig.dev.json
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\bin\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.dll
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\bin\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.pdb
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\obj\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.csprojAssemblyReference.cache
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\obj\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.AssemblyInfoInputs.cache
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\obj\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.AssemblyInfo.cs
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\obj\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.csproj.CoreCompileInputs.cache
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\obj\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.dll
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\obj\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.pdb
+C:\Users\Munce\source\repos\NumberAnalyzerLab5.25.21\NumberAnalyzerLab5.25.21\obj\Debug\netcoreapp3.1\NumberAnalyzerLab5.25.21.genruntimeconfig.cache
